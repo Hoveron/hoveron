@@ -4,7 +4,10 @@
 <div align="center">
 <img height= 300px; length= 300px; src="https://github.com/user-attachments/assets/78ae04fb-400f-4e57-b594-40a134801c8c" alt="heart"/>
 </div>
-
+<div align="center">
+<h3>Hoveron</h3>
+<p>Hii!! Hoveron here,, I'm a digital artist</p>
+</div>
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=hoveron)
