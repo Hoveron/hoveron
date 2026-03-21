@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 <h3>Hoveron</h3>
-<p>Hii!! Hoveron here,, I'm a digital artist<br>Discord: watchedbydivinity<br>wuhluhwuh</p>
+<p>Hii!! Hoveron here,, I'm a digital artist</p>
   
 </div>
 <div align="center">
